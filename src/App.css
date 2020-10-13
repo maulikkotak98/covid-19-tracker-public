@@ -24,7 +24,7 @@ body {
 }
 
 .app__header > h1 {
-  color: #fc3c3c;
+  color: #8c7f7f;
   font-size: 2rem;
 }
 
@@ -57,7 +57,7 @@ body {
 }
 
 @media (max-width: 990px) {
-  .app{
+  .app {
     flex-direction: column;
   }
 }
